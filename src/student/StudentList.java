@@ -12,13 +12,16 @@ package student;
 public class StudentList {
     public static void main(String[] args)
     {
-        Student [] studentList =new Student[2];
+        Student [] studentList =new Student[3];
         
         Student s1 = new Student();
         s1.setName("Ronak");
         
         Student s2 = new Student();
         s2.setName("Sheth");
+        
+        Student s3 = new Student();
+        s3.setName("Selena");
         
         studentList[0] =s1;
         studentList[1] =s2;
