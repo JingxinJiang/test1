@@ -1,7 +1,7 @@
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Jingxin
  */
 package student;
 
@@ -23,7 +23,7 @@ public class StudentList {
         Student s3 = new Student();
         s3.setName("Selena");
         
-        Student s4 = new Student()
+        Student s4 = new Student();
         s4.setName("tanya");
         
         studentList[0] =s1;
