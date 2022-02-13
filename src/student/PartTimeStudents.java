@@ -6,7 +6,7 @@ package student;
 
 /**
  *
- * @author seanz
+ * @author jingxin
  */
 public class PartTimeStudents extends Student{
     private int partTime;
